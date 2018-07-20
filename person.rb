@@ -31,4 +31,3 @@ person_3 = Person.new('Nathan Milstein')
 puts person_1.summary
 puts person_2.summary
 puts person_3.summary
-# puts person_2.full_name
