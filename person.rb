@@ -17,7 +17,7 @@ class Person
 
 
     def summary
-  "#{@first_name} #{@middle_name} #{@last_name}"
+      "#{@first_name} #{@middle_name} #{@last_name}"
     end
   end
 end
